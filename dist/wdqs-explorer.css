@@ -1,0 +1,25 @@
+.explorer-panel {
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  z-index: 100;
+  display: none;
+  min-height: 800px;
+  overflow: auto; }
+
+.vis-container {
+  min-height: 800px; }
+
+.vis-graph {
+  min-height: 800px;
+  float: left; }
+
+.vis-panel {
+  min-height: 800px;
+  width: 24em;
+  overflow: auto;
+  float: left; }
+
+.vis-network {
+  min-height: 800px; }
