@@ -70,17 +70,13 @@
     "bootstrap": "latest",
     "bootstrap-sass": "^3.3.1",
     "bootstrap-tagsinput": "latest",
-    "jquery-popover": "latest",
-    "codemirror": "^4.7.0",
-    "datatables.net": "latest",
-    "datatables.net-bs": "latest",
     "jquery": "~ 1.11.0",
     "jquery-ui": "^1.10.5",
-    "jqcloud":"git://github.com/mistic100/jQCloud.git",
     "microplugin": "0.0.3",
     "minimist": "^1.1.0",
     "underscore": "^1.7.0",
-    "vis": "latest"
+    "vis": "latest",
+    "wurl": "latest"
   },
   "browser": {
     "bootstrap-tagsinput": "./node_modules/bootstrap-tagsinput/src/bootstrap-tagsinput.js",
